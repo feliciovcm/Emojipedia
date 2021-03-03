@@ -1,4 +1,4 @@
-<h1>This is a exemple of a emoji enciclopedia</h1>
+<h1>This is an exemple of a emoji enciclopedia</h1>
 
 <h2> It was used the React library on this project, applying the mapping data basic techniques.  </h2>
 
